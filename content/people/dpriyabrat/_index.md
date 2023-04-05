@@ -10,7 +10,7 @@ authors:
 superuser: False
 
 # Role/position
-role: Ph.D.
+role: Researchers
 
 # Organizations/Affiliations
 organizations:
